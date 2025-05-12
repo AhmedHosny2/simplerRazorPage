@@ -94,4 +94,3 @@ appsettings.Production.json
 *~
 *.swp
 *.bak
-/wwwroot/lib/bootstrap/dist
